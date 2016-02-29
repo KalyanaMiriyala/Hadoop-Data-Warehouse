@@ -7,3 +7,5 @@ Hadoop HDFS and Hive are typically append-only filesystems, with no ability to m
 I have tested a stack that will accommodate slowly changing dimensions with ease when updates to those values come through from the 
 source system; this will facilitate moving some of the functionality from expensive proprietary data warehouses to Hadoop stack.
 
+Document : Hadoop Data Warehouse.docx in the repository presents the findings of the project
+
